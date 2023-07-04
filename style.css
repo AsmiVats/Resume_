@@ -1,0 +1,48 @@
+
+section{
+    background-color: aliceblue;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    font-size: large;
+    font-family: 'Source Serif 4', serif;
+    
+    
+}
+h1,h2{
+    color: #75ade9;
+    font-family: 'Libre Baskerville', serif;
+}
+img{
+    border-radius: 40%;
+}
+ul{
+    list-style: none;
+}
+table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+div{
+    width: 50%;
+    margin: auto;
+}
+button{
+    font-size: large;
+    padding: auto;
+    margin: auto;
+}
+a{
+    color: #032f5c;
+}
+a:hover{ 
+    color:#3770ad;
+}
+hr{
+    height: 1px;
+    background-color: #75ade9;
+    border-color:#75ade9;
+}
